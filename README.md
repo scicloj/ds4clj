@@ -1,2 +1,3 @@
 # ds4clj
-data science for clojure devs course
+
+The Data Science for Clojure Devs course (work in progress)
